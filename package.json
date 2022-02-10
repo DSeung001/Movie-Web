@@ -5,7 +5,7 @@
   "dependencies": {
     "axios": "0.18.1",
     "default-passive-events": "^1.0.10",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-movie-app": "./",
